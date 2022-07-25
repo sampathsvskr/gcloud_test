@@ -6,7 +6,7 @@ app=Flask(__name__)
 
 @app.route('/')
 def hello():	
-	return "Welcome to Dockerized app version 2 new"
+	return "Welcome to Dockerized app version 3 new"
 
 
 if __name__=="__main__":
